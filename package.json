@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-node",
+  "version": "0.0.1",
+  "description": "Is a simple multiplicate table with a text file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node index.js --base=3"
+  },
+  "author": "Adrian Bañuelas",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
